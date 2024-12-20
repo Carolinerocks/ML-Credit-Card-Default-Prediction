@@ -1,4 +1,4 @@
-# ML_Credit_Card_Default_Prediction
+# ML Credit Card Default Prediction
 
 **1. Project Overview**  
 
